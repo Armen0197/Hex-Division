@@ -1,0 +1,43 @@
+{
+  "common" : {
+    "baseURL": "https://dev.mychoice.ca",
+    "postalCode" : "M5V3Z7",
+    "FirstName" : "FirstName",
+    "LastName" : "LastName",
+    "PhoneNumber" : "6135550180",
+    "Email" : "armen.snkhchyan@gmail.com"
+},
+
+  "manufacturer": {
+    "Audi" : "AUDI"
+},
+
+"model" : {
+    "a8quattro" : "A8 QUATTRO 4DR"
+},
+
+"distance" : {
+    "oneHnudredKM" : "100",
+    "fifteenThousandKM" : "15000"
+},
+
+"maritalStatus" : {
+    "marriedCommonLaw" : "M"
+},
+
+"months" : {
+    "April" : "4",
+    "August" : "8",
+    "October" : "10"
+},
+
+"parkingLocation" : {
+    "Street" : "street"
+},
+
+"typeOfLicence" : {
+    "GType" : "G",
+    "G1Type" : "G1",
+    "G2Type" : "G2"
+}
+}
